@@ -1,2 +1,2 @@
-# VIP-s-Django_Login-Logout-Register-Form
+# VIP-s-Django_Tutorials
 website + django + login + logout + register + form + css
