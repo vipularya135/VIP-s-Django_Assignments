@@ -13,3 +13,4 @@
      - Hobbies/Interests entry form
      - Display of entered details with a "Start Again" button to repeat the process.
    - Session management is handled to maintain user data across steps.
+   - Seperate tables are created in postgresql 
