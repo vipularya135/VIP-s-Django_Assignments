@@ -16,26 +16,26 @@
    - When certain users log in, they will be automatically redirected to specific pages. For instance, when 'user1' logs in, they will be directed to 'page1,' and when 'user2' logs in, they will be directed to 'page2.
 
 ## Project Setup
-### Step 0: Change directory to the working django folder
+ Step 0: Change directory to the working django folder
 
-### Step 1: Set up PostgreSQL Database
+ Step 1: Set up PostgreSQL Database
 - Download and install PostgreSQL.
 - Create a database in PostgreSQL.
 - Update your settings.py file with the database details.
 
-### Step 2: Install Dependencies
+Step 2: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 
-### Step 3: Make Migrations
+Step 3: Make Migrations
 ```bash
 python manage.py makemigrations
 
-### Step 4: Migrate it
+Step 4: Migrate it
 ```bash
 python manage.py migrate
 
-### Step 5: Run the server
+Step 5: Run the server
 ```bash
 python manage.py runserver
